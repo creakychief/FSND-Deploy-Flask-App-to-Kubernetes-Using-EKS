@@ -27,7 +27,7 @@ spec:
   template:
     metadata:
       labels:
-        app: simple-jwt-ap
+        app: simple-jwt-api
     spec:
       containers:
         - name: simple-jwt-api
